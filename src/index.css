@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    height:100%;
+    background-color: #222732;
+    color:white;
+}
+button{
+    cursor: pointer;
+}
