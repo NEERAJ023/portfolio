@@ -70,7 +70,7 @@ const Button=styled.div`
     gap:25px;
     align-items:center;
     p{
-        font-size:15px;
+        font-size:16px;
         font-weight:500;
     }
     button{
